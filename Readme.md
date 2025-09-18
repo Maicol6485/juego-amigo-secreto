@@ -1,3 +1,3 @@
-<h1>Juego del amigo Secreto</h1>
+<h1>Challenge AlluraLatam Juego del amigo Secreto</h1>
 
-ESTADO: En construccion.
+ESTADO: Finalizado.
