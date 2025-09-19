@@ -1,3 +1,3 @@
-<h1>Challenge AlluraLatam Juego del amigo Secreto</h1>
+<h1>Challenge Alura Latam Juego del amigo Secreto</h1>
 
 ESTADO: Finalizado.
